@@ -1,12 +1,16 @@
-### Hi there, I'm Viktor 👋
+### Hi there 👋, I'm Viktor
+#### I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientist
+![I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientist](https://drive.google.com/file/d/1pVa6TOtoj6l5JngLYj6e0ftneNfXPW0e/view?usp=sharing)
 
-I'm a web developer, as well as mobile developer who is passionate about learning code,
-and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. 
-I do my projects mostly on java, kotlin, javascript, python, with some common open source libraries.
+My Passion is about learning code,
+and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
 
 See you around :
-Reach me on my Linkedin
-Create something together on Repl
+💬 Reach me on my Linkedin
+👯 Create something together on Repl
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi)](https://github.com/anuraghazra/github-readme-stats)

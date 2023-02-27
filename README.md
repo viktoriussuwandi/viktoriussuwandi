@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Viktor
+# Hi there 👋, I'm Viktor
 #### I am GitHI'm a Web Developer, Mobile developer, Data Analyst, and Data Scientistub Readme Generator's creator
 ![I am GitHI'm a Web Developer, Mobile developer, Data Analyst, and Data Scientistub Readme Generator's creator](https://user-images.githubusercontent.com/68414300/221617585-4fa8f1bd-85ee-412f-a18d-b976866af802.png)
 
 My Passion is about learning code,
 and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose
 
-#### Skills and Experience : 
+## Skills and Experience : 
 - JAVA
 - PYTHON
 - SQL
@@ -15,7 +15,7 @@ and make a usefull things through my code. Currently, I'm also trying to learn s
 - REACT JS
 - NODE JS
 
-#### Activities :
+## Activities :
 - 🔭 I’m currently working on My Projects 
 - 🌱 I’m currently learning Statistics and Math 
 - 👯 I’m looking to collaborate on Repl 

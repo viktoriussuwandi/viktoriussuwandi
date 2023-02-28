@@ -1,9 +1,10 @@
 ## Hi there 👋, I'm Viktor
-#### I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientistub Readme Generator's creator
-![I am GitHI'm a Web Developer, Mobile developer, Data Analyst, and Data Scientistub Readme Generator's creator](https://user-images.githubusercontent.com/68414300/221617585-4fa8f1bd-85ee-412f-a18d-b976866af802.png)
-
+#### I am a Web Developer, Mobile developer, Data Analyst, and Data Scientistub
 My Passion is about learning code,
-and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose
+and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose.
+
+## Get in touch on
+Github [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viktoriussuwandi)  LinkeIn [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viktorius-suwandi-05649b131//) Repl [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@ViktoriusSuwand)
 
 ## Skills and Experience : 
 - JAVA
@@ -22,9 +23,7 @@ and make a usefull things through my code. Currently, I'm also trying to learn s
 - 💬 Ask me about Anything around code 
 - 📫 How to reach me: LinkedIn 
 - ⚡ Fun fact: I love jokes and outdoor activities 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viktoriussuwandi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viktorius-suwandi-05649b131//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@ViktoriusSuwand)  
+ 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -38,7 +37,11 @@ and make a usefull things through my code. Currently, I'm also trying to learn s
 <!--
 ### Hi there 👋, I'm Viktor
 #### I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientist
+
+![I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientistub Readme Generator's creator](https://user-images.githubusercontent.com/68414300/221617585-4fa8f1bd-85ee-412f-a18d-b976866af802.png)
+
 ![I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientist](https://user-images.githubusercontent.com/68414300/221617585-4fa8f1bd-85ee-412f-a18d-b976866af802.png)
+
 
 My Passion is about learning code,
 and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose

@@ -34,11 +34,11 @@ Github [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.s
 
 ## Activities :
 - 🔭 I’m currently working on My Projects 
-- 🌱 I’m currently learning Statistics and Math 
+- 🌱 I’m currently learning Statistics and Math
 - 👯 I’m looking to collaborate on [Repl](https://replit.com/@ViktoriusSuwand) 
 - 💬 Ask me about Anything around code 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viktorius-suwandi-05649b131//)
-- ⚡ Fun fact: I love jokes and outdoor activities
+- ⚡ Fun fact: I love watching movies and outdoor activities
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi)](https://github.com/anuraghazra/github-readme-stats)
 

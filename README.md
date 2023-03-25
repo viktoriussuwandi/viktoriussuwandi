@@ -20,17 +20,43 @@ My Passion is about learning code,
 and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose.
 
 ## Get in touch on
-Github [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viktoriussuwandi)          LinkeIn [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viktorius-suwandi-05649b131//)          Repl [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@ViktoriusSuwand)
+<p align="left">
+  <a href="https://github.com/viktoriussuwandi">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://replit.com/@ViktoriusSuwand">
+    <img src="https://skillicons.dev/icons?i=replit" />
+  </a>
+</p>
 
-## Skills and Experience : 
-- JAVA
-- PYTHON
-- SQL
-- POSGRE
-- HTML
-- CSS
-- REACT JS
-- NODE JS
+## Skills and Experience :
+
+<p align="left">
+ <a href="https://github.com/viktoriussuwandi">
+   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,powershell,bash" />
+</p>
+<p align="left">
+  <a href="https://github.com/viktoriussuwandi">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,heroku,flask,django,firebase,aws" />
+</p>
+ 
+<p align="left">
+  <a href="https://github.com/viktoriussuwandi">
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,redux,react,regex" />
+</p>
+<p align="left">
+  <a href="https://github.com/viktoriussuwandi">
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift" />
+</p>
+
+ ## Tools
+<p align="left">
+  <a href="https://github.com/viktoriussuwandi">
+    <img src="https://skillicons.dev/icons?i=atom,gcp,figma,xd,git,gitlab,idea,postman,vim,vscode" />
+</p>
 
 ## Activities :
 - 🔭 I’m currently working on My Projects 

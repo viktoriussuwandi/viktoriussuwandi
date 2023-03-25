@@ -65,7 +65,7 @@ and make a usefull things through my code. Currently, I'm also trying to learn s
 - 💬 Ask me about Anything around code 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viktorius-suwandi-05649b131//)
 - ⚡ Fun fact: I love watching movies and outdoor activities
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=viktoriussuwandi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)

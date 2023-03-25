@@ -15,9 +15,8 @@
 </a> 
 
 ## Hi there 👋, I'm Viktor
-#### I am a Web Developer, Mobile developer, Data Analyst, and Data Scientist
-My Passion is about learning code,
-and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose.
+### I am a Web Developer, Mobile developer, Data Analyst, and Data Scientist
+### My Passion is about learning code, and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose.
 
 ## Get in touch on
 <p align="left">

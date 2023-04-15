@@ -17,7 +17,7 @@
 
 
 ## Activities :
-|🏅Achievements🛠|🚀Progress|
+|🏅Achievements|🚀Progress|
 |:---:|:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=monokai&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
 

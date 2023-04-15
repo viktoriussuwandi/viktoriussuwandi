@@ -29,10 +29,10 @@
    <a href="https://replit.com/@ViktoriusSuwand">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://replit.com/@ViktoriusSuwand">
+  <a href="https://mail.google.com/mail/">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://github.com/viktoriussuwandi">
+  <a href="https://web.whatsapp.com/">
    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://replit.com/@ViktoriusSuwand">

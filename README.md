@@ -23,13 +23,13 @@
 
 ## Get in touch
 <p align="left">
-  <a href="https://github.com/viktoriussuwandi">
-   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://replit.com/@ViktoriusSuwand">
-    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
+  <a href="https://github.com/viktoriussuwandi">
+   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://replit.com/@ViktoriusSuwand">
+   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
   </a>
 </p>

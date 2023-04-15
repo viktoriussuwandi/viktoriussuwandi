@@ -32,83 +32,20 @@
 </p>
 
 ## Skills and Experience :
-
-<p align="left">
- <a href="https://github.com/viktoriussuwandi">
-   <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,powershell,bash" />
-</p>
-<p align="left">
-  <a href="https://github.com/viktoriussuwandi">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,heroku,flask,django,firebase,aws" />
-</p>
+|Data Analytics & Data Science|
+|:---:|
+| <a href="https://github.com/viktoriussuwandi">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <a href="https://github.com/viktoriussuwandi">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <a href="https://github.com/viktoriussuwandi">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <a href="https://github.com/viktoriussuwandi">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)|
  
-<p align="left">
-  <a href="https://github.com/viktoriussuwandi">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,redux,react,regex" />
-</p>
-<p align="left">
-  <a href="https://github.com/viktoriussuwandi">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift" />
-</p>
+|📃Languages🛠|🛢Database|🎫Hosting|
+|:---:|:---:|:---:|
+|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=python,r,java,c" />|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"/>|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=heroku,aws,firebase,azure" />|
+ 
+|📚Frameworks|👨‍💻Web Development|📱Mobile Development|
+|:---:|:---:|:---:|
+|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=flask,django,bootstrap,react" />|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=html,css,js,jquery"/>|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift"/>|
 
- ## Tools
-<p align="left">
-  <a href="https://github.com/viktoriussuwandi">
-    <img src="https://skillicons.dev/icons?i=atom,gcp,figma,xd,git,gitlab,idea,postman,vim,vscode" />
-</p>
 
 ## Activities :
-- 🔭 I’m currently working on My Projects 
-- 🌱 I’m currently learning Statistics and Math
-- 👯 I’m looking to collaborate on [Repl](https://replit.com/@ViktoriusSuwand) 
-- 💬 Ask me about Anything around code 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viktorius-suwandi-05649b131//)
-- ⚡ Fun fact: I love watching movies and outdoor activities
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=viktoriussuwandi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=viktoriussuwandi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-<!--
-### Hi there 👋, I'm Viktor
-#### I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientist
-
-![I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientistub Readme Generator's creator](https://user-images.githubusercontent.com/68414300/221617585-4fa8f1bd-85ee-412f-a18d-b976866af802.png)
-
-![I'm a Web Developer, Mobile developer, Data Analyst, and Data Scientist](https://user-images.githubusercontent.com/68414300/221617585-4fa8f1bd-85ee-412f-a18d-b976866af802.png)
-
-
-My Passion is about learning code,
-and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose
-
-#### Skills: 
-HTML / CSS / REACT
-
-JS / NODE JS / EXPRESS JS /
-
-JAVA / PYTHON / SQL / POSGRE
-
-#### See you around :
-
-💬 Reach me on my [Linkedin](https://www.linkedin.com/in/viktorius-suwandi-05649b131/)
-
-👯 Create something together on  [My Repl](https://replit.com/@ViktoriusSuwand)
-
-**viktoriussuwandi/viktoriussuwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+|📃Languages🛠|🛢Database|
+|:---:|:---:|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=monokai&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|

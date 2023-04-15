@@ -26,13 +26,13 @@
   <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://replit.com/@ViktoriusSuwand">
+   <a href="https://mail.google.com/mail/">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/">
+  <a href="https://web.whatsapp.com/">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://web.whatsapp.com/">
+  <a href="https://github.com/viktoriussuwandi">
    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://replit.com/@ViktoriusSuwand">

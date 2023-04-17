@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -25,6 +25,5 @@ jobs:
           github_user_name: ${{ github.viktoriussuwandi }}
           outputs: |
             files/github-contribution-grid-snake.svg
-            files/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 

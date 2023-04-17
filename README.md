@@ -40,6 +40,9 @@
   </a>
 </p>
 
+
+
+<!--
 ![Snake animation](https://github.com/viktoriussuwandi/viktoriussuwandi/files/github-contribution-grid-snake.svg)
 github-contribution-grid-snake.svg
 
@@ -48,3 +51,4 @@ github-contribution-grid-snake.svg
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandii/viktoriussuwandii/files/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+-->

@@ -41,7 +41,6 @@
 </p>
 
 
-
 <!--
 ![Snake animation](https://github.com/viktoriussuwandi/viktoriussuwandi/files/github-contribution-grid-snake.svg)
 github-contribution-grid-snake.svg

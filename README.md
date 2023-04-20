@@ -21,6 +21,8 @@
 |:---:|:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=monokai&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
 
+![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)
+ 
 ## Get in touch
 <p align="left">
   <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
@@ -39,6 +41,4 @@
    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
   </a>
 </p>
-
-![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)
 

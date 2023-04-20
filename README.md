@@ -5,19 +5,21 @@
 ## Skills and Experience :
 |Data Analytics 📊 Data Science|
 |:---:|
-| <a href="https://github.com/viktoriussuwandi">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <a href="https://github.com/viktoriussuwandi">![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <a href="https://github.com/viktoriussuwandi">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <a href="https://github.com/viktoriussuwandi">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)|
+|<a href="https://github.com/viktoriussuwandi">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <a href="https://github.com/viktoriussuwandi"> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<a href="https://github.com/viktoriussuwandi"> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <a href="https://github.com/viktoriussuwandi">![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<a href="https://github.com/viktoriussuwandi">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|
  
-|🛠Languages|🛢Database|🎫Hosting|
+|🛠 Languages|🛢 Database|🎫 Hosting|
 |:---:|:---:|:---:|
 |<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=python,r,java,c" />|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"/>|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=heroku,aws,firebase,azure" />|
  
-|📚Frameworks|Web👨🏿‍💻Development|Mobile📱Development|
+|📚 Frameworks|Web👨🏿‍💻Development|Mobile📱Development|
 |:---:|:---:|:---:|
 |<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=flask,django,bootstrap,react" />|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=html,css,js,jquery"/>|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift"/>|
 
 
 ## Activities :
-|🏅Process|🚀Progress|
+|🏅 Process|🚀 Progress|
 |:---:|:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=monokai&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
 

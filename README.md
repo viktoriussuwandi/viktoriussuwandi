@@ -1,3 +1,5 @@
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+
 ## Hi there 👋, I'm Viktor
 ### I am a Web Developer, Mobile developer, Data Analyst, and Data Scientist
 ### My Passion is about learning code, and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose.
@@ -21,7 +23,7 @@
 ## Activities :
 |🏅 Progress|🚀 Achievement|
 |:---:|:---:|
-|[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=monokai&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=flat&no-frame=true&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
 
 <!--
 ![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)

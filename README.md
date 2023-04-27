@@ -54,3 +54,8 @@
   </a>
 </p>
 
+![Contribution in the last yead](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=default)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=default)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=default)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=default)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=default&utcOffset=8)

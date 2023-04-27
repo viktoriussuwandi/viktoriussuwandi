@@ -2,7 +2,7 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+    - cron: "* */1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
         with:
           USERNAME: viktoriussuwandi
           # BRANCH_NAME is optional, default to main, branch name to push cards
-          BRANCH_NAME: "master"
+          BRANCH_NAME: "main"
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: 8 
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""

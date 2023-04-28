@@ -1,8 +1,32 @@
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 
 ## Hi there 👋, I'm Viktor
-### I am a Web Developer, Mobile developer, Data Analyst, and Data Scientist
-### My Passion is about learning code, and make a usefull things through my code. Currently, I'm also trying to learn something about data analytics and data science. I do my projects mostly for education, sharing, and human development purpose.
+### I am a Data Analyst, and Data Scientist
+### My Passion is about learning code, and make a usefull things through my code. I'm doing my projects mostly for education, sharing, and human development purpose.
+## Get in touch
+<p align="left">
+  <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   <a href="https://mail.google.com/mail/">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://web.whatsapp.com/">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/viktoriussuwandi">
+   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://replit.com/@ViktoriusSuwand">
+   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
+  </a>
+</p>
+
+![Contribution in the last yead](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=buefy)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=buefy)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=buefy)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=buefy)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=buefy&utcOffset=8)
 
 ## Skills and Experience :
 |Data Analytics 📊 Data Science|
@@ -34,28 +58,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
 </picture>
-
-## Get in touch
-<p align="left">
-  <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-   <a href="https://mail.google.com/mail/">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://web.whatsapp.com/">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://github.com/viktoriussuwandi">
-   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://replit.com/@ViktoriusSuwand">
-   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
-  </a>
-</p>
-
-![Contribution in the last yead](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=default)
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=default)
-![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=default)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=default)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=default&utcOffset=8)

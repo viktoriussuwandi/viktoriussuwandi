@@ -22,14 +22,10 @@
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=flat&no-frame=true&row=1&column=1)](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+## Activities :
 
-![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=buefy)
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=buefy)
-![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=buefy)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=buefy)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=buefy&utcOffset=8)
+![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=buefy)![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=buefy)[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=buefy&utcOffset=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=buefy)![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=buefy)
 
 
 ## Skills and Experience :
@@ -44,12 +40,6 @@
 |📚 Frameworks|Web👨🏿‍💻Development|Mobile📱Development|
 |:---:|:---:|:---:|
 |<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=flask,django,bootstrap,react" />|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=html,css,js,jquery"/>|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift"/>|
-
-
-## Activities :
-|🏅 Progress|🚀 Achievement|
-|:---:|:---:|
-|[![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=flat&no-frame=true&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True)](https://github.com/anuraghazra/github-readme-stats)|
 
 <!--
 ![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)

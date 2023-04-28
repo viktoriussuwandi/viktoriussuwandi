@@ -21,10 +21,9 @@
    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
   </a>
 </p>
-<!--
 
-![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)
--->
+<!--![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />

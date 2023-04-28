@@ -22,17 +22,20 @@
   </a>
 </p>
 
-![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=buefy)![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=buefy)
+![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&theme=flat&no-frame=true&row=1&column=1)](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+
+![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=buefy)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=buefy)
 ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=buefy)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=buefy)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=buefy&utcOffset=8)
 
+
 ## Skills and Experience :
 |Data Analytics 📊 Data Science|
 |:---:|
-|<a href="https://github.com/viktoriussuwandi">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <a href="https://github.com/viktoriussuwandi"> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-<a href="https://github.com/viktoriussuwandi"> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <a href="https://github.com/viktoriussuwandi">![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-<a href="https://github.com/viktoriussuwandi">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|
+|<a href="https://github.com/viktoriussuwandi">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <a href="https://github.com/viktoriussuwandi"> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)<a href="https://github.com/viktoriussuwandi"> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <a href="https://github.com/viktoriussuwandi">![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)<a href="https://github.com/viktoriussuwandi">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|
  
 |🛠 Languages|🛢 Database|🎫 Hosting|
 |:---:|:---:|:---:|

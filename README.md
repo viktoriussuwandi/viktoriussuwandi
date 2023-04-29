@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm Viktor
 ### I am a Data Analyst, and Data Scientist
 ### My Passion is about learning code, and make a usefull things through my code. I'm doing my projects mostly for education, sharing, and human development purpose.
-## Get in touch
+## Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>

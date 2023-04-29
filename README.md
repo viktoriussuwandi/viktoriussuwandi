@@ -25,16 +25,15 @@
   </a>
 </p>
 
-<!--![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)-->
+## Activities
+![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent) [![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=2&column=3&theme=flat&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent) ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8) ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent)
 
+<!--![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
 </picture>
-
-## Activities
-![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent) [![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=2&column=3&theme=flat&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent) ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8) ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent)
 
 ## Experience
 |Data Analytics 📊 Data Science|

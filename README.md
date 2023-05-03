@@ -77,7 +77,7 @@
       <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="Google%20Apps%20Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
-      <a href="#"><img alt="Google%20Apps%20Script" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
    </p>
    
    <h4>Data Analytics 📊 Data Science</h4>
@@ -134,11 +134,17 @@
       <a href="#"><img alt="swift" src="https://img.shields.io/badge/swift-FF4B4B.svg?logo=swift&logoColor=white"></a>
       <a href="#"><img alt="dart" src="https://img.shields.io/badge/dart-000000.svg?logo=dart&logoColor=white"></a>
       <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-20232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-000000.svg?logo=kotlin&logoColor=white"></a>
+      <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-02569B.svg?logo=kotlin&logoColor=white"></a>
    </p>
    
-   <h4>Script 📚 Editor</h4>
+   <h4>Project 📚 Tools</h4>
    <p>
-      
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-DD1200.svg?logo=Replit&logoColor=white"></a>
+      <a href="#"><img alt="microsoftvisio" src="https://img.shields.io/badge/microsoftvisio-05649b131.svg?logo=microsoftvisio&logoColor=white"></a>
+      <a href="#"><img alt="adobexd" src="https://img.shields.io/badge/adobexd-DD1200.svg?logo=adobexd&logoColor=white"></a>
+      <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-02569B.svg?logo=figma&logoColor=white"></a>
    </p>
 </details>

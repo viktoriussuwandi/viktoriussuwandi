@@ -7,6 +7,7 @@
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
       <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There;Wellcome+to+my+Github&width=1000%&height=100&font=Source+Code+Pro:wght@900&color=2196F3&center=true&vCenter=true&size=30"/>
    </a>
+</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
@@ -21,9 +22,6 @@
    <a href="https://github.com/viktoriussuwandi">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
-   <a href="https://replit.com/@ViktoriusSuwand">
-      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
-   </a>
    <a href="https://www.kaggle.com/viktoriussuwandi">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
    </a>
@@ -34,7 +32,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=6&theme=flat&no-frame=true&no-bg=true"/>
    </a>
 </p>
-
 <details open>
   <summary><h3> Github Stats & Activities</h3></summary>
    <a href="https://github.com/viktoriussuwandi">

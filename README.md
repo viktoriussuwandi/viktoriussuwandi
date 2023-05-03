@@ -1,10 +1,26 @@
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<p align="center">
+   <h1>Viktorius Suwandi</h1>
+   <h3>Data Analyst - Data Scientist</h3>
+</p>
 
-## Hi there 👋, I'm Viktor
-### I am a Data Analyst, and Data Scientist
-### My Passion is about learning code, and make a usefull things through my code. I'm doing my projects mostly for education, sharing, and human development purpose.
-## Contact
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There;Wellcome+to+my+pages&width=1000%&height=100&font=Source+Code+Pro:wght@900&color=2196F3&center=true&vCenter=true&size=30" />
+  </a>
+</p>
 
+<details open>
+  <summary>
+    <h1>Contact</h1>
+  </summary>
+
+* Vegetables
+* Fruits
+* Fish
+
+</details>
+  
 <p align="left">
   <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>

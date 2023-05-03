@@ -68,13 +68,22 @@
 
 <details open>
   <summary><h3> 👨‍💻 Scripts 🛠️ Tools </h3></summary>
-  <h4>Data Analytics 📊 Data Science</h4>
+   <h4>Programming 💻 Languages</h4>
    <p>
-      <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
-      <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
-      <a href="#"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
-      <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="#"><img alt="Google%20Apps%20Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
+   </p>
+   
+   <h4>Data Analytics 📊 Data Science</h4>
+   <p>
+      <a href="#"><img alt="pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="numpy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> 
       <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23013243.svg?logo=Matplotlib&logoColor=white"></a>
       <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23013243.svg?logo=Plotly&logoColor=white"></a>
       <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
@@ -82,7 +91,23 @@
       <a href="#"><img alt="powerbi" src="https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=white"></a>
       <a href="#"><img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
       <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+      <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
+      <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
    </p>
+   
+   <h4>Web👨🏿‍💻Development</h4>
+   <p>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="django" src="https://img.shields.io/badge/django-%23013243.svg?logo=django&logoColor=white"></a>
+      <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="jquery" src="https://img.shields.io/badge/jquery-1572B6.svg?logo=jquery&logoColor=white"></a>
+   </p>
+   
 </details>
 
 ## Experience

@@ -33,7 +33,7 @@
    </a>
 </p>
 <details open>
-  <summary><h3> Github Stats & Activities</h3></summary>
+  <summary><h3>Stats 👨‍💻 Activities</h3></summary>
    <a href="https://github.com/viktoriussuwandi">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent"/>
    </a>
@@ -64,7 +64,7 @@
 </picture>
 
 <details open>
-  <summary><h3> Scripts 👨‍💻 🛠️ Tools </h3></summary>
+  <summary><h3> Scripts 🛠️ Tools </h3></summary>
    <h4>Programming 💻 Languages</h4>
    <p>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -134,7 +134,7 @@
       <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-02569B.svg?logo=kotlin&logoColor=white"></a>
    </p>
    
-   <h4>Project 📚 Tools</h4>
+   <h4>Project 📚 Editor</h4>
    <p>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>

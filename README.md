@@ -96,7 +96,7 @@
       <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
    </p>
    
-   <h4>Database🛢Hosting</h4>
+   <h4>Database 🛢 Hosting</h4>
    <p>
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -109,10 +109,10 @@
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="amazonaws" src="https://img.shields.io/badge/amazonaws-000000.svg?logo=amazonaws&logoColor=white"></a>
       <a href="#"><img alt="firebase" src="https://img.shields.io/badge/firebase-F7DF1E.svg?logo=firebase&logoColor=black"></a>
-      
+      <a href="#"><img alt="microsoftazure" src="https://custom-icon-badges.demolab.com/badge/microsoftazure-025E8C.svg?logo=microsoftazure&logoColor=white"></a>
    </p>
    
-   <h4>Web👨🏿‍💻Development</h4>
+   <h4>Web 👨🏿‍💻 Development</h4>
    <p>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="django" src="https://img.shields.io/badge/django-%23013243.svg?logo=django&logoColor=white"></a>
@@ -129,14 +129,16 @@
       <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
    </p>
    
+   <h4>Mobile 📱 Development</h4>
+   <p>
+      <a href="#"><img alt="swift" src="https://img.shields.io/badge/swift-FF4B4B.svg?logo=swift&logoColor=white"></a>
+      <a href="#"><img alt="dart" src="https://img.shields.io/badge/dart-000000.svg?logo=dart&logoColor=white"></a>
+      <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-20232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-000000.svg?logo=kotlin&logoColor=white"></a>
+   </p>
+   
+   <h4>Script 📚 Editor</h4>
+   <p>
+      
+   </p>
 </details>
-
-## Experience
- 
-|🛠 Languages|🛢 Database|🎫 Hosting|
-|:---:|:---:|:---:|
-|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=python,r,java,c" />|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"/>|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=heroku,aws,firebase,azure" />|
- 
-|📚 Frameworks|Web👨🏿‍💻Development|Mobile📱Development|
-|:---:|:---:|:---:|
-|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=flask,django,bootstrap,react" />|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=html,css,js,jquery"/>|<a href="https://github.com/viktoriussuwandi"><img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift"/>|

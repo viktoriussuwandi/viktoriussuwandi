@@ -1,51 +1,65 @@
 <p align="center">
-   <h1>Viktorius Suwandi</h1>
-   <h3>Data Analyst - Data Scientist</h3>
+   <p align=center>Viktorius Suwandi</p>
+   <p align=center>Data Analyst - Data Scientist</p>
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There;Wellcome+to+my+pages&width=1000%&height=100&font=Source+Code+Pro:wght@900&color=2196F3&center=true&vCenter=true&size=30" />
-  </a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There;Wellcome+to+my+Github&width=1000%&height=100&font=Source+Code+Pro:wght@900&color=2196F3&center=true&vCenter=true&size=30"/>
+   </a>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://mail.google.com/mail/">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+   <a href="https://web.whatsapp.com/">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+   </a>
+   <a href="https://github.com/viktoriussuwandi">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+   </a>
+   <a href="https://replit.com/@ViktoriusSuwand">
+      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
+   </a>
+   <a href="https://www.kaggle.com/viktoriussuwandi">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=6&theme=flat&no-frame=true&no-bg=true"/>
+   </a>
 </p>
 
 <details open>
-  <summary>
-    <h1>Contact</h1>
-  </summary>
-
-* Vegetables
-* Fruits
-* Fish
-
+  <summary><h3> Github Stats & Activities</h3></summary>
+   <a href="https://github.com/viktoriussuwandi">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent"/>
+   </a>
+   <a href="https://github.com/viktoriussuwandi">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent"/>
+   </a>
+   <a href="https://github.com/viktoriussuwandi">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent"/>
+   </a>
+   <a href="https://github.com/viktoriussuwandi">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8"/>
+   </a>
+   <a href="https://github.com/viktoriussuwandi">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent"/>
+   </a>
+   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=monokai-metallian&hide_border=true" height="192px"/>
+   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+   </a>
 </details>
-  
-<p align="left">
-  <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-   <a href="https://mail.google.com/mail/">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://web.whatsapp.com/">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://github.com/viktoriussuwandi">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://replit.com/@ViktoriusSuwand">
-   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=yellow"/>
-  </a>
-  <a href="https://www.kaggle.com/viktoriussuwandi">
-   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-  </a>
-</p>
 
-## Activities
-![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent) [![trophy](https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=2&column=3&theme=flat&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&hide_title=True&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent) ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8) ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent)
-
-<!--![snake gif](https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-contribution-grid-snake.gif)-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />

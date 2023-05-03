@@ -56,7 +56,7 @@
       <img src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=monokai-metallian&hide_border=true" height="192px"/>
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
    </a>
 </details>
 
@@ -66,10 +66,26 @@
   <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
 </picture>
 
+<details open>
+  <summary><h3> 👨‍💻 Scripts 🛠️ Tools </h3></summary>
+  <h4>Data Analytics 📊 Data Science</h4>
+   <p>
+      <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
+      <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
+      <a href="#"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
+      <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23013243.svg?logo=Matplotlib&logoColor=white"></a>
+      <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23013243.svg?logo=Plotly&logoColor=white"></a>
+      <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
+      <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
+      <a href="#"><img alt="powerbi" src="https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=white"></a>
+      <a href="#"><img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
+      <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+   </p>
+</details>
+
 ## Experience
-|Data Analytics 📊 Data Science|
-|:---:|
-|<a href="https://github.com/viktoriussuwandi">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <a href="https://github.com/viktoriussuwandi"> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <a href="https://github.com/viktoriussuwandi">![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) <a href="https://github.com/viktoriussuwandi">![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) <a href="https://github.com/viktoriussuwandi"> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) <a href="https://github.com/viktoriussuwandi"> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <a href="https://github.com/viktoriussuwandi">![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) <a href="https://github.com/viktoriussuwandi">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|
  
 |🛠 Languages|🛢 Database|🎫 Hosting|
 |:---:|:---:|:---:|

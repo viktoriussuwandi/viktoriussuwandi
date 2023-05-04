@@ -1,13 +1,13 @@
-
 <div class="container">
-   <div class="column">
+   <div class="column">   
       <div class="rows" align="center">
-         <p align=center>Viktorius Suwandi</p>
-         <p align=center>Data Analyst - Data Scientist</p>      
+         <h2 align=center>Viktorius Suwandi</h2>
+         <h3 align=center>Data Analyst - Data Scientist</h3>
       </div>
-      <div class="rows">
-         <a href="https://github.com/DenverCoder1/readme-typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There;Wellcome+to+my+Github&width=1000%&height=100&font=Source+Code+Pro:wght@900&color=2196F3&center=true&vCenter=true&size=30"/>
+      <div class="rows" align="center">
+         <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+         <a href="#">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=50&duration=850&color=01579B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+There;Welcome+To+My+Github" alt="Typing SVG" />
          </a>
       </div>
       <div class="rows" align="center">
@@ -22,14 +22,11 @@
          </a>
          <a href="https://github.com/viktoriussuwandi">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-         </a>
-         <a href="https://www.kaggle.com/viktoriussuwandi">
-            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-         </a>      
+         </a>     
       </div>
       <div class="rows" align="center">
          <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=6&theme=flat&no-frame=true&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=2&column=3&theme=flat&no-frame=true&no-bg=true"/>
          </a>
       </div>
    </div>
@@ -146,7 +143,7 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-DD1200.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="microsoftvisio" src="https://img.shields.io/badge/microsoftvisio-05649b131.svg?logo=microsoftvisio&logoColor=white"></a>
-      <a href="#"><img alt="adobexd" src="https://img.shields.io/badge/adobexd-DD1200.svg?logo=adobexd&logoColor=white"></a>
+      <a href="#"><img alt="adobexd" src="https://img.shields.io/badge/adobexd-470137.svg?logo=adobexd&logoColor=#FF61F6"></a>
       <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-02569B.svg?logo=figma&logoColor=white"></a>     
       <a href="#"><img alt="powerbi" src="https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=black"></a>
       <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>

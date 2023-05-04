@@ -67,27 +67,49 @@
    <div class="rows">
       <details open>
         <summary><h3>Stats 👨‍💻 Activities</h3></summary>
-        <a href="https://github.com/viktoriussuwandi">
-         <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=github"/>
-        </a>
-        <a href="https://github.com/viktoriussuwandi">
-         <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=github"/>
-        </a>
-        <a href="https://github.com/viktoriussuwandi">
-         <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=github"/>
-        </a>
-        <a href="https://github.com/viktoriussuwandi">
-         <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=github&utcOffset=8"/>
-        </a>
-        <a href="https://github.com/viktoriussuwandi">
-         <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=github"/>
-        </a>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-         <img height="200" src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=github&hide_border=true" height="200px"/>
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=github&hide_border=true" />
-        </a>
+        <div class="column">
+           <div class="rows">
+              <div class="column">
+                 <a href="https://github.com/viktoriussuwandi">
+                  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=github"/>
+                 </a>
+              </div>
+              <div class="column">
+                 <a href="https://github.com/viktoriussuwandi">
+                  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=github"/>
+                 </a>              
+              </div>
+           </div>
+           <div class="rows">
+              <div class="column">
+                 <a href="https://github.com/viktoriussuwandi">
+                  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=github"/>
+                 </a>              
+              </div>
+              <div class="column">
+                 <a href="https://github.com/viktoriussuwandi">
+                  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=github&utcOffset=8"/>
+                 </a>              
+              </div>           
+              <div class="column">
+                 <a href="https://github.com/viktoriussuwandi">
+                  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=github"/>
+                 </a>
+              </div>
+           </div>
+           <div class="rows">
+              <div class="column">
+                 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+                  <img height="200" src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=github&hide_border=true" height="200px"/>
+                 </a>
+              </div>
+              <div class="column">
+                 <a href="https://github.com/anuraghazra/github-readme-stats">
+                  <img height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=github&hide_border=true" />
+                 </a>                 
+              </div>
+           </div>
+        </div>
       </details>
    </div>
    

@@ -114,7 +114,7 @@
             <a href="#"><img alt="firebase" src="https://img.shields.io/badge/firebase-F7DF1E.svg?logo=firebase&logoColor=black"></a>
             <a href="#"><img alt="microsoftazure" src="https://custom-icon-badges.demolab.com/badge/microsoftazure-025E8C.svg?logo=microsoftazure&logoColor=white"></a>
          </p>
-         <h4>Web 👨🏿‍💻 Development</h4>
+         <h4>Web 🖥️ Development</h4>
          <p>
             <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
             <a href="#"><img alt="django" src="https://img.shields.io/badge/django-%23013243.svg?logo=django&logoColor=white"></a>

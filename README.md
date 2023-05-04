@@ -89,16 +89,12 @@
    <p>
       <a href="#"><img alt="pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="numpy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> 
       <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23013243.svg?logo=Matplotlib&logoColor=white"></a>
       <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23013243.svg?logo=Plotly&logoColor=white"></a>
       <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
       <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
-      <a href="#"><img alt="powerbi" src="https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=black"></a>
       <a href="#"><img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
       <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
-      <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
-      <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
    </p>
    
    <h4>Database 🛢 Hosting</h4>
@@ -127,10 +123,9 @@
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
       <a href="#"><img alt="jquery" src="https://img.shields.io/badge/jquery-1572B6.svg?logo=jquery&logoColor=white"></a>
-      <a href="#"><img alt="apache" src="https://img.shields.io/badge/apache-E8E8E8?logo=apache&logoColor=black"></a>
       <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
    </p>
    
@@ -139,17 +134,21 @@
       <a href="#"><img alt="swift" src="https://img.shields.io/badge/swift-FF4B4B.svg?logo=swift&logoColor=white"></a>
       <a href="#"><img alt="dart" src="https://img.shields.io/badge/dart-000000.svg?logo=dart&logoColor=white"></a>
       <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-20232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-02569B.svg?logo=kotlin&logoColor=white"></a>
+      <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=%2361DAFB"></a>
    </p>
    
    <h4>Project 📚 Editor</h4>
    <p>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-DD1200.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="microsoftvisio" src="https://img.shields.io/badge/microsoftvisio-05649b131.svg?logo=microsoftvisio&logoColor=white"></a>
       <a href="#"><img alt="adobexd" src="https://img.shields.io/badge/adobexd-DD1200.svg?logo=adobexd&logoColor=white"></a>
-      <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-02569B.svg?logo=figma&logoColor=white"></a>
+      <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-02569B.svg?logo=figma&logoColor=white"></a>     
+      <a href="#"><img alt="powerbi" src="https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=black"></a>
+      <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
+      <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
    </p>
 </details>

@@ -1,68 +1,75 @@
 <div class="container">
-   <div class="column">   
-      <div class="rows" align="center">
-         <h2 align=center>Viktorius Suwandi</h2>
-         <h3 align=center>Data Analyst - Data Scientist</h3>
-      </div>
-      <div class="rows" align="center">
+   <div class="rows">
+      <div class="column">
+         <div class="rows" align="center">
+            <h2 align=center>Viktorius Suwandi</h2>
+            <h3 align=center>Data Analyst - Data Scientist</h3>
+            </div>
+         <div class="rows" align="center">
          <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-         <a href="#">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=50&duration=850&color=01579B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+There;Welcome+To+My+Github" alt="Typing SVG" />
-         </a>
-      </div>
-      <div class="rows" align="center">
-         <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-         </a>
-         <a href="https://mail.google.com/mail/">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-         </a>
-         <a href="https://web.whatsapp.com/">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-         </a>
-         <a href="https://github.com/viktoriussuwandi">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-         </a>     
-      </div>
-      <div class="rows" align="center">
-         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=2&column=3&theme=flat&no-frame=true&no-bg=true"/>
-         </a>
+            <a href="#">
+               <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=50&duration=850&color=01579B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+There;Welcome+To+My+Github" alt="Typing SVG" />
+            </a>
+         </div>
+         <div class="rows" align="center">
+            <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
+               <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
+            <a href="https://mail.google.com/mail/">
+               <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+            </a>
+            <a href="https://web.whatsapp.com/">
+               <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+            </a>   
+         </div>
+         <div class="rows" align="center">
+            <a href="https://github.com/ryo-ma/github-profile-trophy">
+               <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=5&theme=flat&no-frame=true&no-bg=true"/>
+            </a>
+         </div>
       </div>
    </div>
+   
+   <div class="rows">
+      <details open>
+         <summary><h3>Current 👨‍💻 Projects</h3></summary>
+            <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask">
+            </a>
+      </details>
+   </div>
+   
+   <div class="rows">
+      <details closed>
+        <summary><h3>Stats 👨‍💻 Activities</h3></summary>
+         <a href="https://github.com/viktoriussuwandi">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent"/>
+         </a>
+         <a href="https://github.com/viktoriussuwandi">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent"/>
+         </a>
+         <a href="https://github.com/viktoriussuwandi">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent"/>
+         </a>
+         <a href="https://github.com/viktoriussuwandi">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8"/>
+         </a>
+         <a href="https://github.com/viktoriussuwandi">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent"/>
+         </a>
+         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+            <img src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=monokai-metallian&hide_border=true" height="192px"/>
+         </a>
+         <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+         </a>
+      </details>
+   </div>
+   
 </div>
 
-<details open>
-  <summary><h3>Current 👨‍💻 Projects</h3></summary>
-<a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-</details>
-   
-<details closed>
-  <summary><h3>Stats 👨‍💻 Activities</h3></summary>
-   <a href="https://github.com/viktoriussuwandi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent"/>
-   </a>
-   <a href="https://github.com/viktoriussuwandi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent"/>
-   </a>
-   <a href="https://github.com/viktoriussuwandi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent"/>
-   </a>
-   <a href="https://github.com/viktoriussuwandi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8"/>
-   </a>
-   <a href="https://github.com/viktoriussuwandi">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent"/>
-   </a>
-   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=monokai-metallian&hide_border=true" height="192px"/>
-   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-   </a>
-</details>
 
-<picture height=250 align="center">
+
+<picture height=100 align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
@@ -70,7 +77,7 @@
 
 <details open>
   <summary><h3> Scripts 🛠️ Tools </h3></summary>
-   <h4>Programming 💻 Languages</h4>
+   <h4>Programming 🧮 Languages</h4>
    <p>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>

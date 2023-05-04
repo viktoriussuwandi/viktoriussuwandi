@@ -57,6 +57,9 @@
          <a href="">
             <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&theme=react&border_radius=20" alt="MyProject">
          </a>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Salon-Appointment-Scheduler&theme=react&border_radius=20" alt="MyProject">
+         </a>
       </details>
    </div>
    

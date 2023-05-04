@@ -34,19 +34,28 @@
       <details open>
          <summary><h3>My 👨‍💻 Projects</h3></summary>
          <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&theme=react" alt="Project1">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&theme=react&border_radius=20" alt="MyProject">
          </a>
          <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=react" alt="Project2">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=react&border_radius=20" alt="MyProject">
          </a>
          <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=react" alt="Project3">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=react&border_radius=20" alt="MyProject">
          </a>
          <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&theme=react" alt="Project4">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&theme=react&border_radius=20" alt="MyProject">
          </a>
          <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Blog-Website-with-User-Authentication&theme=react" alt="Project5">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Blog-Website-with-User-Authentication&theme=react&border_radius=20" alt="MyProject">
+         </a>   
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&theme=react&border_radius=20" alt="MyProject">
+         </a>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&theme=react&border_radius=20" alt="MyProject">
+         </a>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&theme=react&border_radius=20" alt="MyProject">
          </a>
       </details>
    </div>

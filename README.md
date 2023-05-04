@@ -1,3 +1,4 @@
+
 <div class="container">
    <div class="column">
       <div class="rows" align="center">
@@ -19,20 +20,19 @@
          <a href="https://web.whatsapp.com/">
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
          </a>
-      <a href="https://github.com/viktoriussuwandi">
-         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://www.kaggle.com/viktoriussuwandi">
-         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-      </a>      
+         <a href="https://github.com/viktoriussuwandi">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+         </a>
+         <a href="https://www.kaggle.com/viktoriussuwandi">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+         </a>      
+      </div>
+      <div class="rows" align="center">
+         <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=6&theme=flat&no-frame=true&no-bg=true"/>
+         </a>
+      </div>
    </div>
-   
-   <div class="rows" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-         <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=6&theme=flat&no-frame=true&no-bg=true"/>
-      </a>
-   </div>
-   
 </div>
 
 <details open>

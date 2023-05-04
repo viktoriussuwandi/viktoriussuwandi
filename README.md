@@ -29,6 +29,7 @@
          </div>
       </div>
    </div>
+
    
    <div class="rows">
       <details open>
@@ -64,7 +65,7 @@
    </div>
    
    <div class="rows">
-      <details closed>
+      <details open>
         <summary><h3>Stats 👨‍💻 Activities</h3></summary>
         <a href="https://github.com/viktoriussuwandi">
          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent"/>

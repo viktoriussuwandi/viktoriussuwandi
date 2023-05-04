@@ -32,44 +32,57 @@
    
    <div class="rows">
       <details open>
-         <summary><h3>Current 👨‍💻 Projects</h3></summary>
-            <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask">
-            </a>
+         <summary><h3>My 👨‍💻 Projects</h3></summary>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&theme=react" alt="Project1">
+         </a>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=react" alt="Project2">
+         </a>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=react" alt="Project3">
+         </a>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&theme=react" alt="Project4">
+         </a>
+         <a href="">
+            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Blog-Website-with-User-Authentication&theme=react" alt="Project5">
+         </a>
       </details>
    </div>
    
    <div class="rows">
       <details closed>
         <summary><h3>Stats 👨‍💻 Activities</h3></summary>
-         <a href="https://github.com/viktoriussuwandi">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent"/>
-         </a>
-         <a href="https://github.com/viktoriussuwandi">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent"/>
-         </a>
-         <a href="https://github.com/viktoriussuwandi">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent"/>
-         </a>
-         <a href="https://github.com/viktoriussuwandi">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8"/>
-         </a>
-         <a href="https://github.com/viktoriussuwandi">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent"/>
-         </a>
-         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-            <img src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=monokai-metallian&hide_border=true" height="192px"/>
-         </a>
-         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-         </a>
+        <a href="https://github.com/viktoriussuwandi">
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=transparent"/>
+        </a>
+        <a href="https://github.com/viktoriussuwandi">
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=transparent"/>
+        </a>
+        <a href="https://github.com/viktoriussuwandi">
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=transparent"/>
+        </a>
+        <a href="https://github.com/viktoriussuwandi">
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=transparent&utcOffset=8"/>
+        </a>
+        <a href="https://github.com/viktoriussuwandi">
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=transparent"/>
+        </a>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+         <img src="https://streak-stats.demolab.com/?user=viktoriussuwandi&theme=monokai-metallian&hide_border=true" height="192px"/>
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+        </a>
       </details>
    </div>
    
    <div class="rows" align="center">
-      <picture height=100 align="center">
+      <picture align="center">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
-        <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
+        <img width=750 height=350 alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
       </picture>   
    </div>
    

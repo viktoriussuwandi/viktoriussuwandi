@@ -64,6 +64,33 @@
       </details>
    </div>
    
+   <table style="width:100%" cellspacing="0" cellpadding="0">
+      <tr>
+         <td>
+            <a href="#">
+               <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=github"/>
+            </a>
+         </td>
+         <td>
+            <a href="#">
+               <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=github"/>
+            </a>
+         </td>
+      </tr>      
+      <tr>
+         <td>
+           <a href="#">
+            <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=github"/>
+           </a>            
+         </td>     
+         <td>
+           <a href="#">
+            <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=github&utcOffset=8"/>
+           </a>
+         </td>
+      </tr>
+   </table>
+   
    <div class="rows">
       <details open>
         <summary><h3>Stats 👨‍💻 Activities</h3></summary>

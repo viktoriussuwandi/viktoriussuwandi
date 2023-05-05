@@ -66,6 +66,11 @@
    <div class="rows">
       <details open>
         <summary><h3>Stats 👨‍💻 Activities</h3></summary>
+        <picture align="center">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
+         <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
+         <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
+        </picture>
         <table width=100%>
          <tr>
             <td colspan="2">
@@ -112,13 +117,7 @@
       </details>
    </div>
    
-   <div class="rows" align="center">
-      <picture align="center">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
-        <img width=750 height=350 alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
-      </picture>   
-   </div>
+
    
    <div class="rows">
       <details open>

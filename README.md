@@ -182,7 +182,7 @@
             <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-20232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
             <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=%2361DAFB"></a>
          </p>
-         <h4>Software 📚 Editor</h4>
+         <h4>Favorites 📚 Editor</h4>
          <p>
             <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
             <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>

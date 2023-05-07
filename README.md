@@ -1,33 +1,25 @@
 <div class="container">
-   <div class="rows">
-      <div class="column">
-         <div class="rows" align="center">
-            <div style="width: 100%;">
-              <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
-            </div>
-         </div>
-         <div class="rows" align="center">
-         <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-            <a href="#">
-               <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=50&duration=850&color=01579B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+There;Welcome+To+My+Github" alt="Typing SVG" />
-            </a>
-         </div>
-         <div class="rows" align="center">
-            <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
-               <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
-            <a href="https://mail.google.com/mail/">
-               <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-            </a>
-            <a href="https://web.whatsapp.com/">
-               <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-            </a>   
-         </div>
-         <div class="rows" align="center">
-            <a href="https://github.com/ryo-ma/github-profile-trophy">
-               <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=5&theme=github&no-frame=true&no-bg=true"/>
-            </a>
-         </div>
+   <div class="row">
+      <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+      <div class="rows" align="center">
+         <img src="profile.svg" style="width: 100%;" alt="Name">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=50&duration=850&color=01579B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+There;Welcome+To+My+Github" alt="Typing SVG" />
+      </div>
+      <div class="row" align="center">
+         <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+         </a>
+         <a href="https://mail.google.com/mail/">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+         </a>
+         <a href="https://web.whatsapp.com/">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+         </a>
+      </div>
+      <div class="row" align="center">
+         <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=5&theme=github&no-frame=true&no-bg=true"/>
+         </a>
       </div>
    </div>
 

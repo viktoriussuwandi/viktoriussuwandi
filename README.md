@@ -4,7 +4,7 @@
          <div class="rows" align="center">
             <h2 align=center>Viktorius Suwandi</h2>
             <h3 align=center>Data Analyst - Data Scientist</h3>
-            </div>
+         </div>
          <div class="rows" align="center">
          <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
             <a href="#">

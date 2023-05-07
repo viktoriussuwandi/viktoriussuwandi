@@ -2,8 +2,9 @@
    <div class="rows">
       <div class="column">
          <div class="rows" align="center">
-            <h2 align=center>Viktorius Suwandi</h2>
-            <h3 align=center>Data Analyst - Data Scientist</h3>
+            <div style="width: 100%;">
+              <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+            </div>
          </div>
          <div class="rows" align="center">
          <!-- https://readme-typing-svg.herokuapp.com/demo/ -->

@@ -28,24 +28,12 @@
          <summary><h3>My 👨‍💻 Projects</h3></summary>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&theme=github&border_radius=20" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=github&border_radius=20" alt="MyProject">
-         </a>
-         <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&theme=github&border_radius=20" alt="MyProject">
-         </a>
-         <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Blog-Website-with-User-Authentication&theme=github&border_radius=20" alt="MyProject">
-         </a>   
-         <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&theme=github&border_radius=20" alt="MyProject">
-         </a>
-         <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&theme=github&border_radius=20" alt="MyProject">
-         </a>
-         <a href="">
-            <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&theme=github&border_radius=20" alt="MyProject">
-         </a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=github&border_radius=20" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&theme=github&border_radius=20" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Blog-Website-with-User-Authentication&theme=github&border_radius=20" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&theme=github&border_radius=20" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&theme=github&border_radius=20" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&theme=github&border_radius=20" alt="MyProject"></a>
          <a href="">
             <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Salon-Appointment-Scheduler&theme=github&border_radius=20" alt="MyProject">
          </a>

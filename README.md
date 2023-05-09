@@ -23,7 +23,7 @@
       </div>
    </div>
 
-   <div class="rows">
+   <div class="row">
       <details open>
          <summary><h3>My 👨‍💻 Projects</h3></summary>
          <a href="">
@@ -56,63 +56,31 @@
       </details>
    </div>
    
-   <div class="rows">
+   <div class="row" align="center">
       <details open>
-        <summary><h3>Stats 👨‍💻 Activities</h3></summary>
-        <picture align="center">
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
-         <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
-         <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
-        </picture>
-        <table width=100%>
-         <tr>
-            <td colspan="2">
-               <a href="#">
-                  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=github"/>
-               </a>
-            </td>
-            <td>
-               <a href="#">
-                  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=github"/>
-               </a>
-            </td>
-         </tr>
-         <tr>
-            <td>
-              <a href="#">
-               <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=github"/>
-              </a>
-            </td>
-            <td>
-              <a href="#">
-               <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=github&utcOffset=8"/>
-              </a>
-            </td>
-            <td>
-              <a href="#">
-               <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=github"/>
-              </a>
-            </td>
-         </tr>
-         <tr>
-            <td colspan="2">
-              <a href="#">
-               <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/>
-              </a>
-            </td>
-            <td>
-              <a href="#">
-               <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&theme=github&hide_border=true" />
-              </a>
-            </td>
-         </tr>
-        </table>
+         <summary><h3>Stats 👨‍💻 Activities</h3></summary>
+         <div class="row" align="center">
+            <picture align="center">
+               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />
+               <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
+               <img alt="github-snake" src="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake.svg" />
+            </picture>
+         </div>
+         <div class="row" align="center">
+           <a href="#"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=github"/></a>
+         </div>
+         <div class="row" align="center">
+           <a href="#"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=github"/></a>
+           <a href="#"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=github"/></a>
+           <a href="#"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=github&utcOffset=8"/></a>
+           <a href="#"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=github"/></a>
+           <a href="#"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/></a>
+           <a href="#"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&theme=github&hide_border=true" /></a>
+         </div>      
       </details>
    </div>
    
-
-   
-   <div class="rows">
+   <div class="row">
       <details open>
          <summary><h3> Scripts 🛠️ Tools </h3></summary>
          <h4>Programming 🧮 Languages</h4>

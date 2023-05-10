@@ -138,13 +138,14 @@
                <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
             </p>
          </div>
-         <h4>Mobile 📱 Development</h4>
-         <p>
-            <a href="#"><img alt="swift" src="https://img.shields.io/badge/swift-FF4B4B.svg?logo=swift&logoColor=white"></a>
-            <a href="#"><img alt="dart" src="https://img.shields.io/badge/dart-000000.svg?logo=dart&logoColor=white"></a>
-            <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-20232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
-            <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=%2361DAFB"></a>
-         </p>
+         <div class="column">
+            <h4>Mobile 📱 Development</h4>
+            <p>
+               <a href="#"><img alt="swift" src="https://img.shields.io/badge/swift-FF4B4B.svg?logo=swift&logoColor=white"></a>
+               <a href="#"><img alt="dart" src="https://img.shields.io/badge/dart-000000.svg?logo=dart&logoColor=white"></a>
+               <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-20232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
+               <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=%2361DAFB"></a>
+            </p>
          <h4>Favorites 📚 Editor</h4>
          <p>
             <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>

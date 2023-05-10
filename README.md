@@ -38,7 +38,7 @@
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=github&border_radius=20" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=github&border_radius=20" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Blog-Website-with-User-Authentication&theme=github&border_radius=20" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&theme=github&hide_border=true" /></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&theme=github&border_radius=20" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&theme=github&border_radius=20" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&theme=github&border_radius=20" alt="MyProject"></a>
@@ -58,11 +58,8 @@
             <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=github"/></a>
          </div>
          <div class="row" align="center">
-            <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&theme=github&hide_border=true" /></a>
+            <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/></a>
             <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=github"/></a>
-         </div>
-         <div class="row" align="center">
-            <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/></a>            
          </div>
       </details>
    </div>

@@ -146,20 +146,25 @@
                <a href="#"><img alt="flutter" src="https://img.shields.io/badge/flutter-20232a.svg?logo=flutter&logoColor=%2361DAFB"></a>
                <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=%2361DAFB"></a>
             </p>
-         <h4>Favorites 📚 Editor</h4>
-         <p>
-            <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-            <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-            <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-            <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-            <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-DD1200.svg?logo=Replit&logoColor=white"></a>
-            <a href="#"><img alt="microsoftvisio" src="https://img.shields.io/badge/microsoftvisio-05649b131.svg?logo=microsoftvisio&logoColor=white"></a>
-            <a href="#"><img alt="adobexd" src="https://img.shields.io/badge/adobexd-470137.svg?logo=adobexd&logoColor=#FF61F6"></a>
-            <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-02569B.svg?logo=figma&logoColor=white"></a>     
-            <a href="#"><img alt="powerbi" src="https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=black"></a>
-            <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
-            <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
-         </p>
+         </div>
+         <div class="column">
+            <h4>Favorites 📚 Editor</h4>
+            <p>
+               <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+               <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+               <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+               <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+               <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-DD1200.svg?logo=Replit&logoColor=white"></a>
+               <a href="#"><img alt="microsoftvisio" src="https://img.shields.io/badge/microsoftvisio-05649b131.svg?logo=microsoftvisio&logoColor=white"></a>
+            </p>
+            <p>
+               <a href="#"><img alt="adobexd" src="https://img.shields.io/badge/adobexd-470137.svg?logo=adobexd&logoColor=#FF61F6"></a>
+               <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-02569B.svg?logo=figma&logoColor=white"></a>
+               <a href="#"><img alt="powerbi" src="https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=black"></a>
+               <a href="#"><img alt="microsoftexcel" src="https://img.shields.io/badge/microsoftexcel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
+               <a href="#"><img alt="googlesheets" src="https://img.shields.io/badge/googlesheets-34A853.svg?logo=googlesheets&logoColor=white"></a>
+            </p>
+         </div>
       </details>
    </div> 
  </div>  

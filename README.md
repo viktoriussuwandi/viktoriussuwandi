@@ -94,9 +94,9 @@
                   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
                </p>
                <p>
+                  <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
                   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
                   <a href="#"><img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
-                  <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a>
                </p>
             </div>
          </div>

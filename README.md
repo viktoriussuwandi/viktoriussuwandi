@@ -4,7 +4,7 @@
       <div class="rows" align="center">
          <img src="assets/profile.svg" style="width: 100%;" alt="Name">
          <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=400&size=50&duration=850&color=01579B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+There;Welcome+To+My+Github" alt="Typing SVG" />
-      </div>
+      </div>   
       <div class="row" align="center">
          <a href="https://www.linkedin.com/in/viktorius-suwandi-05649b131//">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,7 +22,7 @@
          </a>
       </div>
    </div>
-   
+  
    <div class="row" align="center">
       <picture align="center">
          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriussuwandi/viktoriussuwandi/blob/output/github-snake-dark.svg" />

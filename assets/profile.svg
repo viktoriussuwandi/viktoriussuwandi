@@ -22,10 +22,9 @@
           justify-content: center;
           align-items: center;
           color: #01579B;
-
-          font-family: Source Code Pro;
+          font-family: Source-Code-Pro;
         }
-
+        
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
@@ -40,8 +39,8 @@
       </style>
 
       <div class="container">
-        <h5>Viktorius Suwandi <div class="hi">👋 </div></h5>
-        <h5>Data Scientist</h5>
+        <h2 class="title1" font-family="Source+Code+Pro">Viktorius Suwandi <div class="hi">👋 </div></h2>
+        <h2 class="title2" font-family="Source+Code+Pro">Data Scientist</h2>
       </div>
     </div>
   </foreignObject>

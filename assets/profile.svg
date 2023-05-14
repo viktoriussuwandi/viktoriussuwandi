@@ -21,8 +21,11 @@
           display: flex;
           justify-content: center;
           align-items: center;
+        }
+        
+        h2{
+          font-family : sans-serif;
           color: #01579B;
-          font-family: Source-Code-Pro;
         }
         
         .hi {
@@ -39,8 +42,8 @@
       </style>
 
       <div class="container">
-        <h2 class="title1" font-family="Source+Code+Pro">Viktorius Suwandi <div class="hi">👋 </div></h2>
-        <h2 class="title2" font-family="Source+Code+Pro">Data Scientist</h2>
+        <h2 class="title1" dx="0" dy=".6em"> Viktorius Suwandi <div class="hi">👋 </div> </h2>
+        <h2 class="title2" dx="0" dy="1.2em">Data Scientist</h2>
       </div>
     </div>
   </foreignObject>

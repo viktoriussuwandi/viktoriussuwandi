@@ -59,7 +59,7 @@
          </div>
          <div class="row">
             <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=github"/></a>
-            <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/></a>
+            <a href="#"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/></a>
          </div>
       </details>
    </div>

@@ -33,7 +33,7 @@
    </div>
    
    <div class="row">
-      <details open>
+      <details closed>
          <summary><h3>My 👷 Projects</h3></summary>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
@@ -48,7 +48,7 @@
    </div>
    
    <div class="row">
-      <details open>
+      <details closed>
          <summary><h3>Stats 👨‍💻 Activities</h3></summary>
          <div class="row">
             <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&border_radius=30&hide_border=true&theme=vue"/></a>
@@ -68,7 +68,7 @@
    </div>
    
    <div class="row">
-      <details open>
+      <details closed>
          <summary><h3> Scripts 🛠️ Tools </h3></summary>     
          <div class="row">
             <div class="column">

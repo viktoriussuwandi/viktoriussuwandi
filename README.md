@@ -50,15 +50,15 @@
       <details open>
          <summary><h3>Stats 👨‍💻 Activities</h3></summary>
          <div class="row">
-       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&theme=github&utcOffset=8"/></a>-->
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&theme=github"/></a>
+       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&utcOffset=8&hide_border=true&theme=github"/></a>-->
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
          </div>
          <div class="row">
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&theme=github"/></a>
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&theme=github"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
          </div>
          <div class="row">
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&theme=github"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
             <a href="#"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/></a>
          </div>
       </details>

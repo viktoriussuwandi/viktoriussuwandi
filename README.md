@@ -34,15 +34,15 @@
    <div class="row">
       <details open>
          <summary><h3>My 👷 Projects</h3></summary>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Number-Guessing-Game&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&theme=github&hide_border=true" /></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&theme=github&border_radius=20" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Salon-Appointment-Scheduler&theme=github&border_radius=20" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Number-Guessing-Game&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&hide_border=true&theme=yeblu" /></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Salon-Appointment-Scheduler&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
       </details>
    </div>
    
@@ -50,7 +50,7 @@
       <details open>
          <summary><h3>Stats 👨‍💻 Activities</h3></summary>
          <div class="row">
-       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&utcOffset=8&hide_border=true&theme=github"/></a>-->
+       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&hide_border=true&theme=github"/></a>-->
             <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
          </div>
          <div class="row">
@@ -59,7 +59,7 @@
          </div>
          <div class="row">
             <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
-            <a href="#"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&theme=github&hide_border=true&border_radius=20" height="200px"/></a>
+            <a href="#"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&border_radius=20&hide_border=true&theme=github" height="200px"/></a>
          </div>
       </details>
    </div>

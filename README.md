@@ -50,16 +50,16 @@
       <details open>
          <summary><h3>Stats 👨‍💻 Activities</h3></summary>
          <div class="row">
-       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>-->
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
+       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&border_radius=30&hide_border=true&theme=yeblu"/></a>-->
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&border_radius=30&hide_border=true&theme=yeblu"/></a>
          </div>
          <div class="row">
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&border_radius=30&hide_border=true&theme=yeblu"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&border_radius=30&hide_border=true&theme=yeblu"/></a>
          </div>
          <div class="row">
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
-            <a href="#"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&border_radius=30&hide_border=true&theme=yeblu"/></a>
+            <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&border_radius=30&hide_border=true&theme=yeblu"/></a>
          </div>
       </details>
    </div>

@@ -38,7 +38,7 @@
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Number-Guessing-Game&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&hide_border=true&theme=yeblu" /></a>
+         <a href="#"><img width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&border_radius=20&hide_border=true&theme=yeblu" /></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&border_radius=20&hide_border=true&theme=yeblu" alt="MyProject"></a>
@@ -50,16 +50,16 @@
       <details open>
          <summary><h3>Stats 👨‍💻 Activities</h3></summary>
          <div class="row">
-       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&hide_border=true&theme=github"/></a>-->
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
+       <!-- <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>-->
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
          </div>
          <div class="row">
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
          </div>
          <div class="row">
-            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&hide_border=true&theme=github"/></a>
-            <a href="#"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&border_radius=20&hide_border=true&theme=github" height="200px"/></a>
+            <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
+            <a href="#"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viktoriussuwandi&border_radius=20&hide_border=true&theme=yeblu"/></a>
          </div>
       </details>
    </div>

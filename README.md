@@ -19,7 +19,7 @@
       </div>
       <div class="row" align="center">
          <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=5&theme=github&no-frame=true&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true"/>
          </a>
       </div>
    </div>

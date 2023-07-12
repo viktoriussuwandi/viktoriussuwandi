@@ -36,13 +36,13 @@
       <details closed>
          <summary><h3>My 👷 Projects</h3></summary>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-Movie-List-Website&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Library-Website&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Tic-Tac-Toe-Python-Game-Development&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Number-Guessing-Game&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Flask-CSV&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoriussuwandi&layout=compact&border_radius=20&hide_border=true&theme=swift" /></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Celestial-Bodies-Database&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Selenium-web-driver&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
-         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Android-Development&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
+         <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Demographic-Data-Analyzer&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
          <a href="#"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viktoriussuwandi&repo=Salon-Appointment-Scheduler&border_radius=20&hide_border=true&theme=swift" alt="MyProject"></a>
       </details>
    </div>

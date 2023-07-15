@@ -17,11 +17,6 @@
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
          </a>
       </div>
-      <div class="row" align="center">
-         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=viktoriussuwandi&rank=SSS,SS,S,AAA,AA,A,SECRET&row=1&column=5&theme=juicyfresh&no-frame=true"/>
-         </a>
-      </div>
    </div>
   
    <div class="row" align="center">
